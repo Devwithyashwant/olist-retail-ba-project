@@ -1,0 +1,5 @@
+review_bucket,delivery_status,num_orders,total_revenue
+Low Review (1-2 stars),Late,4145,748656.819999999
+Low Review (1-2 stars),On Time,8164,1567402.0500000063
+OK/Good Review (3-5 stars),Late,3528,569221.6900000015
+OK/Good Review (3-5 stars),On Time,80072,12477263.42999928
